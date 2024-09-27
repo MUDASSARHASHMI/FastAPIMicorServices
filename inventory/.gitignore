@@ -1,0 +1,23 @@
+# created by virtualenv automatically
+
+*.pyc
+*.pyo   
+*.so
+*.egg-info
+*.dist-info
+*.egg-info/*
+*.dist-info/*
+
+*/__pycache__/*
+# Byte-compiled / optimized / DLL files 
+*.py[cod]
+*.py[co]
+*.so
+*.pyd
+*.dll
+*.exe
+
+# Visual Code binaries to ignore 
+.vscode/
+.vscode-insiders/
+.history
