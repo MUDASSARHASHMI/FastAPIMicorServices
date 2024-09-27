@@ -21,5 +21,5 @@
 .vscode/
 .vscode-insiders/
 .history
-Lib/site-packages
-Scripts
+/Lib/site-packages
+/Scripts
