@@ -1,2 +1,7 @@
-Lib
-Scripts
+/inventory/migrations/
+/payments/migrations/
+/inventory/scripts/
+/inventory/Lib/
+/inventory/__pycache__/
+/payments/__pycache__/
+/payments/Lib/
