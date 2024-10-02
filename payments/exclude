@@ -1,0 +1,7 @@
+# exclude /share, /Scripts, /Lib
+
+# git ls-files --others --exclude-from=.git/info/exclude
+/payments/__pycache__
+/payments/Scripts
+/payments/share 
+/payments/Lib
