@@ -44,3 +44,6 @@ async def update_order(pk: str, order: Orders):
     return order
 
 @app.post('/orders')
+async def create(request: Request):
+    body = await request.json()
+    
